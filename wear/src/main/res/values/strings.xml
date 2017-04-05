@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Material</string>
+    <string name="title_activity_material_watch_config">MaterialWatchConfigActivity</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+</resources>
